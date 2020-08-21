@@ -1,4 +1,5 @@
-## Hi there 👋 I'm glad to see you here!
+## Hi there 👋 
+## I'm glad to see you here!
 
 Let me tell you something about me and this.
 
@@ -6,9 +7,13 @@ There isn't too much here. It's my personal account and I mainly use it for lear
 
 I'm a software developer (with a software engineering :mortar_board: degree and all those things that make moms happy :innocent:). I'm mainly a C# backend developer using SQL-Server for persistence.
 
-C# was my first big love; but right now I'm looking to learn something new, just like the popular and great (? Python :star_struck:
+C# was my first big love; but right now I'm looking to learn something new, just like the popular and great (? Python. :star_struck:
 
-I don't like Mark's networks, so you can find me anywhere else :mailbox_closed:
+I don't like Mark's networks, so you can find me anywhere else. :mailbox_closed:
+
+Anything else, just ask me.
+
+Goodbye, and have a great day! :wave:
 
 <!--
 **CarlosBordachar/CarlosBordachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
