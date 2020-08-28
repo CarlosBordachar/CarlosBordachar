@@ -3,7 +3,7 @@
 
 Let me tell you something about me and this.
 
-There isn't too much here. It's my personal account and I mainly use it for learning purposes. :seedling:
+There isn't too much here. It's my personal account and I mainly use it for learning purposes and personal projects. :seedling:
 
 I'm a software developer (with a software engineering :mortar_board: degree and all those things that make moms happy :innocent:). I'm mainly a C# backend developer using SQL-Server for persistence.
 
